@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to My Dummy ML Blog!"
+title: "Welcome to My Blog!"
 date: 2023-10-01
-author: John Doe
+author: Omprakash Nain
 ---
 
 ## Hello World! 🌍
@@ -12,6 +12,8 @@ This is my first blog post. Here’s what I’ll cover:
 - PageRank Algorithm
 - MinHash for Similarity Detection
 
+And many more.....
+
 ```python
 # Example code snippet (optional)
-print("Hello, Machine Learning!")
+print("Hello World!!!")
