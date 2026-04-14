@@ -1,5 +1,5 @@
 title: Blog       # Your blog's name
-description: A blog about ML, algorithms, and big data. # Tagline
+description: A blog about things I find interesting. # Tagline
 theme: minima              # Use GitHub's default theme
 author:
   name: Omprakash Nain           # Dummy name (change later)

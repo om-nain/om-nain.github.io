@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Welcome to My Blog!"
+title: "This is the first post here!"
 date: 2025-03-26
 author: Omprakash Nain
 ---
 
-## Hello World! 🌍
+<!-- ## Hello World! 🌍 -->
 
-This is my first blog post. Here’s what I’ll cover:
+<!-- This is my first blog post. Here’s what I’ll cover:
 - Recommender Systems
 - PageRank Algorithm
 - MinHash for Similarity Detection
 
-And many more.....
+And many more..... -->
 
+
+As the title says this is my first post here and I haven't decided what to post yet. But I'll post a nice blog soon....
